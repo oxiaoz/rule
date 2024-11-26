@@ -5,6 +5,8 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
