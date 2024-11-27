@@ -3,7 +3,6 @@
 # MyList
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -16,7 +15,6 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
-DOMAIN-KEYWORD,bing
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
