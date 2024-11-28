@@ -10,11 +10,14 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+# DOMAIN,www.bing.com
+# DOMAIN-SUFFIX,bing.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+# DOMAIN-KEYWORD,bing
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
